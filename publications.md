@@ -1,16 +1,5 @@
-# Monographs
-@phdthesis{hageneuer_von_2022,
-	address = {Berlin},
-	type = {Dissertation},
-	title = {Von {Layard} bis {Lara} {Croft}. {Eurozentrische} {Denkweisen} in den {Bildmedien} der {Archäologie} {Westasiens}},
-	copyright = {All rights reserved},
-	shorttitle = {Von {Layard} bis {Lara} {Croft}},
-	url = {http://dx.doi.org/10.17169/refubium-36558},
-	language = {German},
-	urldate = {2022-11-29},
-	school = {Freie Universität Berlin},
-	author = {Hageneuer, Sebastian},
-	year = {2022},
-	keywords = {Dissertation, Media, Archaeology, Reconstructions, Video Games, Videospiele},
-	file = {Hageneuer - 2022 - Von Layard bis Lara Croft. Eurozentrische Denkweis.pdf:E\:\\Eigene Dateien\\OneDrive\\Dokumente\\Zotero\\storage\\C8PM33VL\\Hageneuer - 2022 - Von Layard bis Lara Croft. Eurozentrische Denkweis.pdf:application/pdf},
-}
+# Publications
+---
+bibliography: ArchaeoBasti.bib
+nocite: '@*'
+...
